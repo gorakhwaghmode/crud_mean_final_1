@@ -122,7 +122,8 @@ if(! isNaN(s[i])){
  sum = parseInt(sum)+ parseInt(s[i])
 }
 }
-
+var xyzzz= "gorakh"
+console.log(xyzzz)
 console.log(sum)
 
 
